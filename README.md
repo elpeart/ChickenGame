@@ -1,4 +1,4 @@
-#Chicken Game Tester
+# Chicken Game Tester
 
 This project tests how likely winning and losing are in the children's boardgame "Count Your Chicks"
 The goal of the game is to get all of the chicks into the coop before reaching the end. 
