@@ -98,7 +98,7 @@ namespace ChickenGame
             Console.WriteLine("Number of Losses: " + numLosses);
             Console.WriteLine("press enter to exit");
             string aString = Console.ReadLine();
-            Console.WriteLine("You typed: " + aString);
+            Console.WriteLine(aString);
         }
     }
 }
